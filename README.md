@@ -20,3 +20,4 @@ Ce lab a pour objectif de montrer l'importance de la sécurisation du mode privi
 #### Ref 1: Dossier images_resume_configuration 
 #### Ref 2: fichier lab_sec.pdf
 #### Ref 3: fichier securiser_acces_console_telnet.pkt
+### Ref 4 : mot de passe utiliser cisco
